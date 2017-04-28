@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+}
+body{
+	background: grey;
+	border-bottom:150px solid grey;
+	margin-left: 150px;
+	margin-right: 200px;
+	margin-top: 10px;
+}
+.menu{
+	background-color: orange;
+	color: white;
+	width:911px;
+}
+
+td{
+	padding: 10px;
+	font-weight: bold;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	color: gainsboro;
+	font-size:20px;
+	margin-bottom: 10px;
+}
+
+h3{
+	font-size: 20px;
+	text-decoration: underline;
+	color:darkorange;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+h4{
+	color:gray;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+.cuerpo{
+	background: white;
+	display: inline-flex;
+	margin-bottom: 10px;
+	padding: 10px;
+
+}
+
+.texto{
+	font-size: 15px;
+	margin:5px;
+	width: 700px;
+	font-family: "Times New Roman";
+	text-align: justify;
+}
+
+.menulateral{
+	position: relative;
+	right: 35px;
+	margin-left: 20px;
+	margin-top: 10px;
+	padding: 5px;
+}
+.linea{
+	border-left: 2px solid gainsboro;
+	margin-left: 5px;
+}
+
+
+
+
+a{
+	display: inline-block;
+}
+p a{
+	color: darkorange;
+}
+
+li{
+	color: darkorange;
+	list-style: none;
+}
+h5 a {
+	display: inline-block;
+	color: darkorange;
+}
+
+h5{
+	color:white;
+	text-align: justify;
+	margin-left: 300px;
+}
+
+img{
+	width: 500px;
+	height: 160px;
+	border: 5px solid gainsboro;
+}
